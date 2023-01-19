@@ -21,8 +21,6 @@ Skills: Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=meheedihasaan&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meheedihasaan)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meheedihasaan)  
 
 ![Profile views](https://gpvc.arturio.dev/meheedihasaan)  

@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Mehedi Hasan
 #### A passionate Java Programmer
-Looking for an entry-level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge. 
+Looking for an entry-level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge and skill. 
 
 Skills: Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
 
